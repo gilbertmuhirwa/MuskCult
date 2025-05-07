@@ -1,1 +1,2 @@
-
+git practice
+jupiter notebook
